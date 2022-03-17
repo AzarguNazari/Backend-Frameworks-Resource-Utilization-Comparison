@@ -1,5 +1,5 @@
 # Docker Images and Size Comparison
-In this project, my aim is to a performance comparison (CPU, Memory, I/O) and also the size of image containers.
+In this project, my aim is to a performance comparison from the perspective of CPU, Memory, and I/O. Also, compare each framework based on image size of container.
 
 ## Prerequisite
 - `Java 8+`
